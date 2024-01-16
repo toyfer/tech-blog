@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/post.astro
+layout: ../../layouts/Post.astro
 title: OpenAIのWhisperとElectronで文字起こしソフトを作成しました
 ---
 
