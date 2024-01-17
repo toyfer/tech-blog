@@ -3,6 +3,8 @@ layout: ../../layouts/Post.astro
 title: FasterWhisperとElectronで文字起こしソフトを作成しました
 ---
 
+
+
 # はじめに
  FasterWhisperを活用した文字起こしソフトをElectronで作成したのでご紹介します。
 
